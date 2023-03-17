@@ -4,7 +4,7 @@ trigger:
       - main
   paths:
     include:
-      - Database/Migration
+      - Database/Migration-Infra
 
 pool:
   vmImage: ubuntu-latest
